@@ -48,7 +48,7 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![IMG-20241019-WA0032](https://github.com/user-attachments/assets/367dd590-0978-45bf-bbc9-84e181d23d0a)
+![WhatsApp Image 2024-11-18 at 19 33 08_2ae79157](https://github.com/user-attachments/assets/7f8cd7b9-407f-4eff-91af-9a3e923bbaf4)
 
  
 iii)	Creating the Symbol for schematic Cell view
@@ -102,7 +102,7 @@ For Transient Analysis Settings and Output
 ![IMG-20241019-WA0028](https://github.com/user-attachments/assets/ccc48800-045e-4cf8-b9d7-bf8fc443e8ae)
 
 
- ![IMG-20241019-WA0027](https://github.com/user-attachments/assets/c13a30de-284c-4201-8bde-c9fc9e88234b)
+ ![WhatsApp Image 2024-11-18 at 19 33 08_8c243257](https://github.com/user-attachments/assets/83a5cbf9-0c15-4395-9edb-f29bc37a8ee6)
 
   
 
